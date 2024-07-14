@@ -21,6 +21,10 @@ For individuals, accurate and full educational records are a valuable asset. Edu
     * Metamask.
 
 
+### Proposed Methodology
+![PROPOSED](https://github.com/user-attachments/assets/8918e064-786c-4b82-a32f-230bccd3dcfb)
+
+### Instructions 
 
 - Use *npm install* to install dependencies
 - Use *npm start* to start react-scripts
